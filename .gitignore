@@ -1,0 +1,41 @@
+# --- Projucer-generated (rebuilt from SimpleGain.jucer on save) ---
+Builds/
+JuceLibraryCode/
+
+# --- Visual Studio ---
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.ipch
+*.aps
+*.ncb
+ipch/
+
+# --- Build output ---
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.vst3
+*.log
+
+# --- JUCE, if cloned inside this project folder ---
+# (better: keep it outside, or add it as a submodule instead)
+JUCE/
+
+# --- OS / editor junk ---
+Thumbs.db
+.DS_Store
+*.swp
